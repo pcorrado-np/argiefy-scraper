@@ -16,5 +16,8 @@
     "chrome-aws-lambda": "^10.1.0",
     "puppeteer-core": "^22.9.0",
     "puppeteer-extra-plugin-stealth": "^2.11.2"
+  },
+  "devDependencies": {
+    "lambdafs": "^2.1.1"
   }
 }
