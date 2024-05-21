@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node src/handler.js",
+    "build": "pnpm install",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
@@ -11,8 +13,8 @@
   "dependencies": {
     "express": "^4.19.2",
     "open-graph-scraper-lite": "^2.0.0",
-    "puppeteer": "^22.9.0",
-    "puppeteer-extra": "^3.3.6",
+    "chrome-aws-lambda": "^10.1.0",
+    "puppeteer-core": "^22.9.0",
     "puppeteer-extra-plugin-stealth": "^2.11.2"
   }
 }
