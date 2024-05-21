@@ -53,6 +53,9 @@ dependencies:
   tar-stream:
     specifier: ^3.1.7
     version: 3.1.7
+  through:
+    specifier: ^2.3.8
+    version: 2.3.8
   yauzl:
     specifier: ^3.1.3
     version: 3.1.3
