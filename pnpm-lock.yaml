@@ -37,6 +37,9 @@ devDependencies:
   lambdafs:
     specifier: ^2.1.1
     version: 2.1.1
+  ms:
+    specifier: 2.1.3
+    version: 2.1.3
   node-fetch:
     specifier: ^3.3.2
     version: 3.3.2
@@ -1021,7 +1024,6 @@ packages:
 
   /ms@2.1.3:
     resolution: {integrity: sha512-6FlzubTLZG3J2a/NVCAleEhjzq5oxgHyaCU9yYXvcLsvoVaHJq/s5xXI6/XXP6tz7R9xAOtHnSO/tXtF3WRTlA==}
-    dev: false
 
   /negotiator@0.6.3:
     resolution: {integrity: sha512-+EUsqGPLsM+j/zdChZjsnX51g4XrHFOIXwfnCVPGlQk/k5giakcKsuxCObBRu6DSm9opw/O6slWbJdghQM4bBg==}
