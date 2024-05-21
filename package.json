@@ -14,7 +14,7 @@
     "express": "^4.19.2",
     "open-graph-scraper-lite": "^2.0.0",
     "chrome-aws-lambda": "^10.1.0",
-    "puppeteer-core": "^22.9.0",
+    "puppeteer-core": "^10.1.0",
     "puppeteer-extra-plugin-stealth": "^2.11.2"
   },
   "devDependencies": {

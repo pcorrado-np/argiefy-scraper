@@ -7,7 +7,7 @@ exports.handler = async (event, context) => {
   const url = event.queryStringParameters.url;
 
   try {
-    puppeteer.use(StealthPlugin());
+    // puppeteer.use(StealthPlugin());
 
     browser = await puppeteer.launch({
       args: [...chromium.args, "--hide-scrollbars", "--disable-web-security"],
