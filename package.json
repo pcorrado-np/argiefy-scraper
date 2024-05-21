@@ -11,9 +11,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chrome-aws-lambda": "^10.1.0",
+    "debug": "^4.3.4",
     "express": "^4.19.2",
     "open-graph-scraper-lite": "^2.0.0",
-    "chrome-aws-lambda": "^10.1.0",
     "puppeteer-core": "^10.1.0",
     "puppeteer-extra-plugin-stealth": "^2.11.2"
   },
