@@ -13,12 +13,23 @@
   "dependencies": {
     "chrome-aws-lambda": "^10.1.0",
     "debug": "^4.3.4",
+    "devtools-protocol": "^0.0.1302984",
     "express": "^4.19.2",
     "open-graph-scraper-lite": "^2.0.0",
     "puppeteer-core": "^10.1.0",
     "puppeteer-extra-plugin-stealth": "^2.11.2"
   },
   "devDependencies": {
-    "lambdafs": "^2.1.1"
+    "lambdafs": "^2.1.1",
+    "extract-zip": "^2.0.1",
+    "https-proxy-agent": "^7.0.4",
+    "node-fetch": "^3.3.2",
+    "pkg-dir": "^8.0.0",
+    "progress": "^2.0.3",
+    "proxy-from-env": "^1.1.0",
+    "rimraf": "^5.0.7",
+    "tar-fs": "^3.0.6",
+    "unbzip2-stream": "^1.4.3",
+    "ws": "^8.17.0"
   }
 }
